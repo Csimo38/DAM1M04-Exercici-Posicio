@@ -82,3 +82,20 @@ footer {
 footer p {
   margin-bottom: 6px;
 }
+
+.redes {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center; 
+  gap: 15px;             
+}
+.redes a {
+  color: var(--accent-cyan);
+  text-decoration: none; 
+  font-size: 0.9rem;
+}
+
+.redes a:hover {
+  text-decoration: none;
+  color:#8b5cf6
+}
