@@ -33,7 +33,7 @@ header.menu-fixed {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 50px;
+  padding: 10px 20px;
 }
 
 .brand-logo {
@@ -43,6 +43,7 @@ header.menu-fixed {
   text-decoration: none;
   text-transform: uppercase;
   margin-right: 20px;
+  margin-left: 2px ;
 }
 
 .brand-logo span {
