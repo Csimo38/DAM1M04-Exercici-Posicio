@@ -15,7 +15,7 @@
 
 
 body {
-  font-family: 'Segoe UI', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: var(--text-main);
   background-color: var(--bg-dark);
   margin-top: 80px; /* Margen para evitar que el menú fijo tape el contenido */
@@ -37,11 +37,12 @@ header.menu-fixed {
 }
 
 .brand-logo {
-  font-size: 1.4rem;
-  font-weight: 800;
+  font-size: 1.1rem;
+  font-weight: 100;
   color: var(--accent-cyan);
   text-decoration: none;
   text-transform: uppercase;
+  margin-right: 20px;
 }
 
 .brand-logo span {
